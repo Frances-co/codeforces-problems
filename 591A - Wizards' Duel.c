@@ -7,6 +7,8 @@
 //That's bcs time and velocity doesn't change overtime.
 //So the solution will be the position of the first collision and the formula for it is in the jpg file.
 
+//I found the formula myself which is HUGE <############
+
 #include <stdio.h>
  
 int main() {
